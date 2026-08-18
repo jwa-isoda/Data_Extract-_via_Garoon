@@ -1,0 +1,2 @@
+Skillsのファイルです。Garoon上のデータをExtractするためのツールやPythonコードの情報が入っています。
+まず、Skill.mdを見てみましょう。
