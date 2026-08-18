@@ -1,0 +1,4 @@
+interface:
+  display_name: "GRIB2風比較"
+  short_description: "GRIB2風データの取得・抽出・FLA/LFM比較"
+  default_prompt: "$wind-grib2-comparison を使って、GRIB2から地上10 mのU・Vを抽出し、FLAとLFMを比較してください。"

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+*.bin
+*.grb
+*.grib
+*.grib2
+*.tar.bz2
+*.csv
+!assets/stations.example.csv
+output/
+results/
+Thumbs.db
+.DS_Store
